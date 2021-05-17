@@ -1,1 +1,2 @@
 # Simon-game
+- juery
